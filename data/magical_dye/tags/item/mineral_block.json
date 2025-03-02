@@ -1,10 +1,15 @@
 {
     "values":[
-        "minecraft:glowstone_dust",
-        "minecraft:redstone",
-        "minecraft:gunpowder",
-        "minecraft:sugar",
-        "minecraft:blaze_powder",
-        "minecraft:bone_meal"
+        "minecraft:coal_block",
+        "minecraft:copper_block",
+        "minecraft:diamond_block",
+        "minecraft:emerald_block",
+        "minecraft:gold_block",
+        "minecraft:lapis_block",
+        "minecraft:iron_block",
+        "minecraft:redstone_block",
+        "minecraft:quartz_block",
+        "minecraft:amethyst_block",
+        "minecraft:netherite_block"
     ]
 }
