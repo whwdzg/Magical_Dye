@@ -5,11 +5,6 @@
         "count": 1 
     }, 
     "ingredients": [ 
-        [ 
-            "#magical_dye:dust"  
-        ], 
-        [ 
-            "minecraft:white_dye"  
-        ] 
+        "#magical_dye:dust",["minecraft:white_dye"] 
     ] 
 }
