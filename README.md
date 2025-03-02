@@ -13,3 +13,9 @@
     </br>
 </div>
 
+Minecraft的染料向来只是单纯装饰作用，而这个数据包/模组解决了这个问题，如今，染料魔法让染料们彻底翻身！
+
+现在，染料们可以改变粉末、矿物块的属性了！！！染料们已经开始原地打转了！
+
+# Modrinth
+[https://github.com/whwdzg/magical_dye](https://github.com/whwdzg/magical_dye)
