@@ -1,11 +1,21 @@
 {
     "criteria": {   
-        "dye": {    
+        "dust": {    
             "trigger": "minecraft:inventory_changed",    
             "conditions": {
                 "items": [
                     {
-                        "items": "#magical_dye:dye"
+                        "items": "#magical_dye:dust"
+                    }
+                ]
+            }
+        },
+        "mineral_block": {
+            "trigger": "minecraft:inventory_changed",    
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#magical_dye:mineral_block"
                     }
                 ]
             }
@@ -28,7 +38,7 @@
          "background": "minecraft:textures/block/stone.png"
     },
     "requirements": [    
-        ["dye"]
+        ["dust","mineral_block"]
     ],
     "rewards": {    
         "experience": 10    

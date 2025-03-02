@@ -5,6 +5,6 @@
         "count": 1 
     }, 
     "ingredients": [ 
-        "#magical_dye:mineral_block",["minecraft:black_dye"]  
+        "#magical_dye:mineral_block",["minecraft:gray_dye"]  
     ] 
 }
