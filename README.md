@@ -1,7 +1,7 @@
 <div align="center">
     <img align="center" src="https://raw.githubusercontent.com/whwdzg/magical_dye/main/pack.png" alt="logo" width="200">
     <h1 align="center">染料魔法(Magical Dye)</h1>
-    <p align="center">Secret for April</p>
+    <p align="center">愚人节专供 April Fools special present</p>
     </br>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/whwdzg/magical_dye">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/whwdzg/magical_dye">
